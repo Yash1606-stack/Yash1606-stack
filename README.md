@@ -1,7 +1,6 @@
-[![MasterHead](./E:\github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Naitik Verma</h1>
 <h3 align="center">A passionate computer science student from India</h3>
-<img align="right" alt="Coding" width="400" <"src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2131993%2Fscreenshots%2F4948736%2Fthoughtworks-gif_dribbble.gif&f=1&nofb=1&ipt=8d08c164e6eed2f89d2cefc7e11d74d07b40321881be057d2e1ba75bf2c6702a&ipo=images">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash1606-stack&label=Profile%20views&color=0e75b6&style=flat" alt="yash1606-stack" /> </p>
 
